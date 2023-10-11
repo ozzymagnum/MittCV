@@ -1,0 +1,181 @@
+.flex-container{
+    display: flex;
+}
+
+img {
+    height: 230px;
+    width: auto;
+    border-radius: 50%;
+    padding: 20px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.image-container {
+    background-color: rgb(176, 210, 238);
+    border-radius: 5%;
+    width: 50%;
+    height: 1500px;
+    margin-left: 100px; 
+    
+}
+
+h1 {
+    font-size: 60px;
+    margin-top: 70px;
+    margin-left: -440px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: -440px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+hr {
+    border-style: dotted;
+    margin-left: -440px;
+    color: rgb(19, 106, 177);
+}
+
+#heading-1 {
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+#heading-2 {
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: po;
+    color:rgb(80, 79, 79);
+}
+
+#heading-3 {
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+#heading-4 {
+    font-size: 30px;
+    margin-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+#heading-5 {
+    font-size: 25px;
+    margin-left: -440px;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(19, 106, 177);
+}
+
+
+#heading-6 {
+    font-size: 25px;
+    margin-left: -440px;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(19, 106, 177);
+}
+
+.phone-icon {
+    font-size: 23px; 
+    margin-left: 100px;
+    vertical-align: middle;
+    color:rgb(80, 79, 79);
+}
+
+.phone-number {
+    font-size: 25px;
+    display: inline-block; 
+    color:rgb(80, 79, 79);
+    margin-left: 10px;
+}
+
+.email-icon {
+    font-size: 23px; 
+    margin-left: 100px;
+    vertical-align: middle;
+    color:rgb(80, 79, 79);
+}
+
+.email-address {
+    font-size: 25px;
+    display: inline-block; 
+    color:rgb(80, 79, 79);
+    margin-left: 10px;
+}
+
+.profil {
+    font-size: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+.språk {
+    font-size: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+.kompetens {
+    font-size: 22px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+.utbildning {
+    font-size: 20px;
+    margin-left: -440px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+.arbetslivserfarenhet {
+    font-size: 20px;
+    margin-left: -440px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+
+
+.left-align {
+    float: left;
+    margin-left: -400px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:rgb(80, 79, 79);
+}
+
+
+.right-align {
+    float: right;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:rgb(19, 106, 177);
+}
+
+.custom-size {
+    border-style: dotted;
+    margin-left: 0px;
+    color: rgb(154, 186, 199);
+
+}
